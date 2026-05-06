@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Existing ignored files (keep them)
+/shelf/
+/workspace.xml
+/httpRequests/
